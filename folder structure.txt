@@ -1,0 +1,31 @@
+weather_app/
+  lib/
+    main.dart
+
+    pages/
+      home_page.dart
+      details_page.dart
+      favorites_page.dart
+      settings_page.dart
+
+    services/
+      weather_service.dart   
+
+    models/
+      weather_model.dart    
+
+    widgets/
+      
+
+    providers/
+      weather_provider.dart  
+
+    config/
+      api_constants.dart     
+
+  android/
+  ios/
+  test/
+  pubspec.yaml
+  README.md
+  .gitignore
